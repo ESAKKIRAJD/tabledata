@@ -1,0 +1,75 @@
+#contentAreas{
+	background-color:white;
+}
+.login-page {
+	 background-color:#6347bc; 
+	 }
+.cd-section h4{
+	color: black;
+	font-weight: bold;
+	padding: 2%;
+}
+.sidebar .sidebar-wrapper {
+    
+    height: calc(100vh - 13rem);
+    padding-bottom: 0;
+}
+.card-content select{
+    padding: 0;  
+}
+.card-content select:hover{
+	border:2px solid #9c27b0;
+}
+.footer a{
+	color: #9c27b0;
+	font-weight:bold;
+}
+.logo a{
+	
+	margin:0 2rem;
+}
+.btn.btn-primary,
+.btn.btn-secondary{
+	border-radius: 15px;
+}
+.logos{
+	
+    margin: 0;
+    display: block;
+    position: relative;
+    z-index: 4;
+	/* background-color: #fff; */
+}
+.form-group:last-child{
+	margin-top: 10px;
+}
+.btn.btn-second{
+	background-color: #9c27b0;
+	color: white;
+}
+
+
+
+
+.alert{
+	padding: 0;  
+	margin-bottom:3px; 
+   
+}
+
+.alert, .alert.alert-default {
+color:#ff0000;
+box-shadow: none;
+}
+
+.row-edit{
+float: left;
+text-align: center;
+margin: 10px;
+
+}
+.row-delete{
+	float: left;
+	text-align: center;
+	margin: 10px;
+}
